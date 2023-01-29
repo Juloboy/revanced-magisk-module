@@ -10,8 +10,8 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 
 [YouTube]
-build-mode = "both"
-excluded-patches = ""
+build-mode = "module"
+excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-revancify custom-branding-name force-premium-heading microg-support theme"
 included-patches = ""
 version = "auto"
 exclusive-patches = false
