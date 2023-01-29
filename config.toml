@@ -12,7 +12,7 @@ rv-brand = "ReVanced Extended"
 [YouTube]
 build-mode = "module"
 excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-revancify custom-branding-name force-premium-heading microg-support theme"
-included-patches = ""
+included-patches = "materialyou"
 version = "auto"
 exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
