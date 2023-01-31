@@ -1,14 +1,14 @@
 CLI: revanced-cli-2.21.0-all.jar  
 Integrations: app-release-unsigned.apk  
-Patches: revanced-patches-2.158.3.jar  
+Patches: revanced-patches-2.158.4.jar  
 
 YouTube
 ==
-- add `disable-shorts-player-pip` patch [#screenshot](https://www.reddit.com/r/revancedapp/comments/103035v/any_way_to_disable_pip_when_im_watching_youtube/)
+- add `disable-shorts-player-pip` patch (Experimental Flags)
 - fix: `Hide preview comment` setting hides Chapters area in video info panel
 - refactor: `Hide shorts player subscriptions button` setting now hides the red subscribe button, too
 - crowdin translation update
-`Arabic`,  `French`, `Russian`, `Spanish`
+`Arabic`,  `French`, `Indonesian`, `Russian`, `Spanish`
 
 ETC
 ==
