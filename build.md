@@ -1,6 +1,6 @@
 CLI: revanced-cli-2.21.0-all.jar  
 Integrations: revanced-integrations-0.97.6.apk  
-Patches: revanced-patches-2.162.6.jar  
+Patches: revanced-patches-2.162.7.jar  
 
 YouTube
 ==
