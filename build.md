@@ -26,5 +26,6 @@ ETC
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
+YouTube: 18.07.35  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
