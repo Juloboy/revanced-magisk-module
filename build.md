@@ -1,27 +1,20 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.99.8.apk  
-Patches: revanced-patches-2.164.8.jar  
+Integrations: revanced-integrations-0.99.9.apk  
+Patches: revanced-patches-2.164.9.jar  
 
 YouTube
 ==
-- refactor(hide-player-button-background): remove the background of the accessibility button https://github.com/inotia00/ReVanced_Extended/issues/346
 - refactor(litho): minor optimization
+- fix incorrect switch description
 
 - crowdin translation update
-`Arabic`, `Bengali`, `French`, `German`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Portuguese (Brazilian)`, `Russian`, `Vietnamese`
+`Chinese Simplified`, `French`
 
 
 YouTube Music
 ==
-- add `hide-playlist-card` patch
 - crowdin translation update
-`French`
-
-
-ETC
-==
-- add suport YouTube v18.08.34
-- add missing patch description
+`Spanish`
 
 ※ Compatible ReVanced Manager: v0.0.56
 ※ If you want to contribute to the translation, refer below
