@@ -17,4 +17,3 @@ included-patches = "materialyou"
 version = "auto"
 exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-
