@@ -1,0 +1,10 @@
+logging-to-file = true       
+enable-magisk-update = true   
+
+[YouTube]
+app-name = "YouTube"
+build-mode = "module"  
+version = "auto" 
+excluded-patches = "'Vanced MicroG support' 'Enable debugging' 'Theme' 'Custom branding' 'Premium heading'"                                                                                                                                            
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
