@@ -4,7 +4,7 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "module"  
 version = "auto" 
-excluded-patches = "'Vanced MicroG support' 'Enable debugging' 'Theme' 'Custom branding' 'Premium heading'"                                                                                                                                            
+excluded-patches = "'Vanced MicroG support' 'Enable debugging' 'Custom branding' 'Premium heading'"                                                                                                                                            
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
