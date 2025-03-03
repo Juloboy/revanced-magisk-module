@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches: 5.12.0)",
-  "versionCode": 163,
-  "zipUrl": "https://github.com/Juloboy/revanced-magisk-module/releases/download/163/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches: 5.13.0)",
+  "versionCode": 164,
+  "zipUrl": "https://github.com/Juloboy/revanced-magisk-module/releases/download/164/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/Juloboy/revanced-magisk-module/update/build.md"
 }
