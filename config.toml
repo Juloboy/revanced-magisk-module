@@ -8,3 +8,7 @@ excluded-patches = "'Vanced MicroG support' 'Enable debugging' 'Custom branding'
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
