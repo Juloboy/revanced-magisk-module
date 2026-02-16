@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.48.0.rvp)",
-  "versionCode": 210,
-  "zipUrl": "https://github.com/Juloboy/revanced-magisk-module/releases/download/210/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.50.2.rvp)",
+  "versionCode": 211,
+  "zipUrl": "https://github.com/Juloboy/revanced-magisk-module/releases/download/211/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/Juloboy/revanced-magisk-module/update/build.md"
 }
